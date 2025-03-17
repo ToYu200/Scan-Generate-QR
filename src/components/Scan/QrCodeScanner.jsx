@@ -31,7 +31,7 @@ export const QrCodeScanner = () => {
                 containerStyle={{ width: '300px' }}
             />
     
-            <p className={s.result}>{scanned}</p>
+            <p className={s.text}>{scanned}</p>
         </div>
     );
 };
