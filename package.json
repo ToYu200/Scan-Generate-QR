@@ -1,6 +1,6 @@
 {
   "name": "scan-generate",
-  "homepage": "https://ToYu200.github.io/Scan-Generate-QR",
+  "homepage": "https://toyu200.github.io/qr-code/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
