@@ -1,6 +1,7 @@
 # Генерация & Расшифровка QR на React
+[Ссылка на собранный проект](https://toyu200.github.io/qr-code/)
 
-# Скрин проекта
+### Скрин проекта
 ![image](https://github.com/user-attachments/assets/1580f9b8-c636-45e2-8c2e-a0e9cd74087e)
 
 Использован сборщик Vite
